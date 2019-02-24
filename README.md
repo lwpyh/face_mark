@@ -8,5 +8,5 @@ predict.py:测试代码
 keras-flask-deploy-webapp文件夹下是具体如何实现前端网页demo的代码  
 app.py:实现交互的核心部分  
 注意将生成的h5文件放到model文件夹下  
-![Image text](https://github.com/lwpyh/face_mark/raw/master/lwpyh/face_mark/image1.jpg
+![Image text](https://github.com/lwpyh/face_mark/raw/master/image1.jpg
 
