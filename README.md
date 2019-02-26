@@ -2,7 +2,7 @@
 教程地址：https://blog.csdn.net/lwpyh/article/details/87902245  
 需要：
 python3.5及以上，keras2.2.4,face_recognition1.0.0,glob2 0.6  
-face_rank文件夹下是后台颜值检测算法的整套代码。  
+face_mark文件夹下是后台颜值检测算法的整套代码。  
 prepare.py:数据预处理代码  
 train.py:训练神经网络代码  
 predict.py:测试代码  
